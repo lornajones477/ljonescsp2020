@@ -54,10 +54,9 @@ a:hover, a:active {
 
 .selection {
 	background-color: white;
-	opacity: 65%;
 	height: 600px;
 }
 
-
-
-
+.pizzeria {
+margin: auto;
+}
